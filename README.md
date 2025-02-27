@@ -100,6 +100,6 @@ Meu nome é Mateus Cunha, tenho 19 anos e sou de Minas Gerais. Atualmente, estou
         alt="GitHub Stats"
         height="200"
         style="padding-right: 10px;"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusgeraldoc&show_icons=true&theme=tokyonight&layout=compact&custom_tittle=Linguagens"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusgeraldoc&show_icons=true&theme=tokyonight&layout=compact&custom_tittle=Linguagens&langs_count=5"
     />
 </p>
