@@ -4,23 +4,6 @@
 
 Meu nome é Mateus Cunha, tenho 19 anos e sou de Minas Gerais. Atualmente, estou cursando Desenvolvimento de Sistemas no SENAI CTTI.
 
-<p align="left">
-<a href="https://github.com/mateusgeraldoc?tab=repositories&sort=stargazers">
-    <img
-        alt="Total de Estrelas"
-        tittle="Total de Estrelas Github"
-        src="https://custom-icon-badges.demolab.com/github/stars/mateusgeraldoc?color=%23E1AD0E&style=for-the-badge&labelColor=C79600&logo=star&label=estrelas"
-    />
-</a>
-<a href="https://github.com/mateusgeraldoc?followers">
-    <img
-        alt="Seguidores"
-        tittle="Me siga no Github"
-        src="https://custom-icon-badges.demolab.com/github/followers/mateusgeraldoc?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=seguidores"
-    />
-</a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
