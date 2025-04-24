@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Meu nome é Mateus Cunha, tenho 19 anos e sou de Minas Gerais. Atualmente, estou cursando Desenvolvimento de Sistemas no SENAI CTTI.
+Meu nome é Mateus Cunha, tenho 19 anos e sou de Minas Gerais. Atualmente estou cursando Desenvolvimento de Sistemas no SENAI CTTI.
 
 ---
 
