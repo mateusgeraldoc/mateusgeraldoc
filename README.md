@@ -48,14 +48,6 @@ Meu nome é Mateus Cunha, tenho 19 anos e sou de Minas Gerais. Atualmente estou 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 />
 
-<img
-    align="left"
-    alt="BOOTSTRAP"
-    width="40px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-
 <br>
 <br>
 
