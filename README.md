@@ -8,14 +8,7 @@ Meu nome é Mateus Cunha, tenho 20 anos e sou de Minas Gerais e sou formado em D
 
 ### 🤖 Linguagens e Tecnologias
 
-<img
-    align="left"
-    alt="PYTHON"
-    width="40px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
-          
+
 <img
     align="left"
     alt="PHP"
@@ -48,6 +41,13 @@ Meu nome é Mateus Cunha, tenho 20 anos e sou de Minas Gerais e sou formado em D
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 />
 
+<img
+    align="left"
+    alt="PYTHON"
+    width="40px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
 <br>
 <br>
 
